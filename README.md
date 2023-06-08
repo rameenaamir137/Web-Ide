@@ -29,9 +29,9 @@ Web server for executing the PHP code-XAMPP
 To use the visual PHP programming interface, follow these steps:
 
 **1.** Clone this repository to your local machine or download the source code as a ZIP file.<br>
-**2.** Set up a web server environment that supports PHP.
-**3.** Open the as.php file in your preferred internet browser on localhost on XAMPP server.
-**4.** Start designing and building PHP scripts using the drag-and-drop components provided.
-**5.** Customize the code as necessary and provide inputs when prompted.
-**6.** Press the run button to execute the code on the server-side.
-**7.** View the output displayed in the interface.
+**2.** Set up a web server environment that supports PHP.<br>
+**3.** Open the as.php file in your preferred internet browser on localhost on XAMPP server.<br>
+**4.** Start designing and building PHP scripts using the drag-and-drop components provided.<br>
+**5.** Customize the code as necessary and provide inputs when prompted.<br>
+**6.** Press the run button to execute the code on the server-side.<br>
+**7.** View the output displayed in the interface.<br>
